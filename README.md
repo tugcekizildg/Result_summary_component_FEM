@@ -1,0 +1,27 @@
+# Frontend Mentor - Results summary component solution
+
+This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+### Screenshot
+
+![Desktop Design](summary-component\Result_summary_component_DesktopDesign.png)
+
+### Links
+
+- Solution URL: [Add solution URL here](https://github.com/tugcekizildg/Result_summary_component_FEM)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+- Tailwind CSS
+- [React](https://reactjs.org/) - JS library
+
+## Author
+
+- Frontend Mentor - [@tugcekizildg](https://www.frontendmentor.io/profile/tugcekizildg)
