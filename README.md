@@ -9,7 +9,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/tugcekizildg/Result_summary_component_FEM)
+- Solution URL: [(https://github.com/tugcekizildg/Result_summary_component_FEM/tree/main)](https://github.com/tugcekizildg/Result_summary_component_FEM)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
