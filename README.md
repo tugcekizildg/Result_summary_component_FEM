@@ -5,7 +5,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ### Screenshot
 
 ![Desktop Design](![Result_summary_component_DesktopDesign](https://github.com/user-attachments/assets/59fb22b0-8c80-4f03-a39e-4b823115633d)
-)
+
 
 ### Links
 
